@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # t-dashboard-front
-=======
-# t_dashboard_client
 
 ## Project setup
 ```
@@ -30,4 +27,3 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> develop
